@@ -1,6 +1,6 @@
 {
   "name": "gulp-core",
-  "version": "0.1.0-alpha",
+  "version": "0.1.0a",
   "description": "Some predefined gulp tasks, my personal collection of commonly used tasks.",
   "main": "index.js",
   "scripts": {
